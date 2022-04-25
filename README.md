@@ -8,7 +8,7 @@ However, the basic concept remains the same: users can post short messages (twee
 
 In this repo we will also look inside the weaponization of twitter, and develop tools for protecting countries from information warfare. When Twitter was first introduced to the public, their mission was simple: they were designed to help people become more connected to each other. It became a thriving digital space by giving its users the freedom to share whatever they wanted with their friends and followers. Unfortunately, these same digital tools are also easy to manipulate. As exemplified by claimed outside interference in the 2016 U.S. presidential election, this shows thagt now states can exploit social media to interfere with democratic governance.
 
-We will also learn to develop bots. Twitter bots are programmed Twitter accounts that use the Twitter API to perform actions autonomously as outlined by their creators.
+Approximately 500 million tweets are published every day — and not all of them from human users. In this repo, we will also learn to develop bots. Twitter bots are programmed Twitter accounts that use the Twitter API to perform actions autonomously as outlined by their creators.
 Using a Twitter bot, you can perform a range of useful operations on Twitter and gain more value from the platform.
 
 [Training](https://academy.hubspot.com/courses/twitter-strategy)
