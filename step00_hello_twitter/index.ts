@@ -6,8 +6,10 @@ const client = new Client(process.env.BEARER_TOKEN as string);
 
 
 async function main() {
-  const tweet = await client.tweets.findTweetById("20");
-  console.log(tweet?.data?.text);
+  const { data } = await client.users.findUserByUsername("ziakhan");
+  if (!data) throw new Error("Couldn't find user");
+  console.log("User ID: " + data?.id);
+  console.log("User Name: " + data?.name);
 }
 
 main();
